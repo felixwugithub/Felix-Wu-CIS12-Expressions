@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ExpressionsAssignment/ExpressionsAssignment.iml" filepath="$PROJECT_DIR$/ExpressionsAssignment/ExpressionsAssignment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Felix-Wu-CIS12-Expressions.iml" filepath="$PROJECT_DIR$/.idea/Felix-Wu-CIS12-Expressions.iml" />
+    </modules>
+  </component>
+</project>
